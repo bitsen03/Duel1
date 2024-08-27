@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bitsen03/Duel1/settings/static/css/main.b47d65fd.css",
-    "main.js": "/bitsen03/Duel1/settings/static/js/main.c3fef706.js",
-    "index.html": "/bitsen03/Duel1/settings/index.html",
-    "main.b47d65fd.css.map": "/bitsen03/Duel1/settings/static/css/main.b47d65fd.css.map",
-    "main.c3fef706.js.map": "/bitsen03/Duel1/settings/static/js/main.c3fef706.js.map"
+    "main.css": "/Duel1/static/css/main.b47d65fd.css",
+    "main.js": "/Duel1/static/js/main.c3fef706.js",
+    "index.html": "/Duel1/index.html",
+    "main.b47d65fd.css.map": "/Duel1/static/css/main.b47d65fd.css.map",
+    "main.c3fef706.js.map": "/Duel1/static/js/main.c3fef706.js.map"
   },
   "entrypoints": [
     "static/css/main.b47d65fd.css",
